@@ -6,33 +6,33 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você joga lixo na rua? POr exemplo quando você está passeando de carro e abre alguama embalagem...",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Você prefere segurar a embalagem até encontrar algum lixo!",
+                afirmacao: "Se você escolheu essa alternativa parabéns, você pensa no meio ambiente e é uma pessoa responsável."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Você prefere jogar o lixo pela janela!",
+                afirmacao: "Se você escolheu essa alternativa provávelmente você deve ter muitos compromissos para não ter tempo de procurar um lixo"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Você sabia que o lixo que você joga do carro, ou de qualquer outro lugar pode percorrer desens, centenas e até milhares de quilômetros, você tinha conciencia disso?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Sim, pois me preocupo com o meio ambiente!",
+                afirmacao: "Parabéns por ter esse conhecimento!!!"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Não, nunca meinteressei em psquisar sobre isso.",
+                afirmacao: "Então vou te falar oque pode acontecer com esse lixo. Estima-se que, a cada ano, até 12 milhões de toneladas de lixos cheguem ao oceano. Os animais marinhos interagem com esse lixo principalmente através da ingestão e emaranhamento"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: " Terminar ?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
